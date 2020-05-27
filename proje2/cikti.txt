@@ -1,0 +1,149 @@
+Lz77 algoritmasi 
+[0, 0, b]
+[0, 0, u]
+[0, 0,  ]
+[0, 0, k]
+[0, 0, o]
+[0, 0, s]
+[0, 0, e]
+[5, 1, y]
+ [0, 0, a]
+[0, 0, z]
+[9, 5, s]
+ [0, 0, i]
+[16, 1, b]
+ [19, 7, k]
+ [11, 1, s]
+ [28, 5, s]
+ [19, 2, o]
+ [0, 0, r]
+[0, 0, t]
+[32, 1, d]
+ [34, 1, k]
+ [28, 2, s]
+ [47, 2, s]
+ [34, 1, s]
+ [47, 1, s]
+ [38, 1, i]
+ 
+Lz77 algoritmasiyla olusan metin:
+bu koseyazsibkssortdkssssi 
+
+Islem sonrasi boyut 26 bayt 
+
+
+Lz77 algoritmasiyla olusan metin:
+bu koseyazsibkssortdkssssi 
+
+
+Deflate algoritmasi sonucu karakterlerin kodlanmasi: 
+
+01111110011101010110010111101111100000001101101011101010101100001000110110010101010101101
+Lz77 sonucu harfler ve tekrar sayilari:
+b harfi 2 tane 
+u harfi 1 tane 
+  harfi 1 tane 
+k harfi 3 tane 
+o harfi 2 tane 
+s harfi 8 tane 
+e harfi 1 tane 
+y harfi 1 tane 
+a harfi 1 tane 
+z harfi 1 tane 
+i harfi 2 tane 
+r harfi 1 tane 
+t harfi 1 tane 
+d harfi 1 tane 
+
+
+LZ77 Algoritmasi ile olusan metni kullanarak Deflate Algoritmasi 
+
+Huffman Agaci 
+
+son veri : u
+ sol : (null)
+ son veri :  
+ sol : (null)
+ son veri : e
+ sol : (null)
+ son veri : y
+ sol : (null)
+ son veri : a
+ sol : (null)
+ son veri : z
+ sol : (null)
+ son veri : r
+ sol : (null)
+ son veri : t
+ sol : (null)
+ son veri : d
+ sol : (null)
+ son veri : b
+ sol : (null)
+ son veri : o
+ sol : (null)
+ son veri : i
+ sol : (null)
+ son veri : 2
+ sol : 1
+ sag : 1
+ son veri : 2
+ sol : 1
+ sag : 1
+ son veri : 2
+ sol : 1
+ sag : 1
+ son veri : 2
+ sol : 1
+ sag : 1
+ son veri : k
+ sol : (null)
+ son veri : 3
+ sol : 1
+ sag : 2
+ son veri : 4
+ sol : 2
+ sag : 2
+ son veri : 4
+ sol : 2
+ sag : 2
+ son veri : 4
+ sol : 2
+ sag : 2
+ son veri : 6
+ sol : 3
+ sag : 3
+ son veri : s
+ sol : (null)
+ son veri : 8
+ sol : 4
+ sag : 4
+ son veri : 10
+ sol : 4
+ sag : 6
+ son veri : 16
+ sol : 8
+ sag : 8
+ son veri : 26
+ sol : 10
+ sag : 16
+ 
+
+Deflate sonucu metnin boyutu 11 byte
+
+
+ karakter s kod 10
+ karakter k kod 010
+ karakter a kod 0000
+ karakter z kod 0001
+ karakter r kod 0010
+ karakter t kod 0011
+ karakter d kod 0110
+ karakter b kod 0111
+ karakter o kod 1100
+ karakter i kod 1101
+ karakter u kod 11100
+ karakter   kod 11101
+ karakter e kod 11110
+ karakter y kod 11111
+ 
